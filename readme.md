@@ -8,5 +8,6 @@ OOPS
 Numpy 
 Pandas
 Data Analytics Tools
+FastApi
 
 ```
