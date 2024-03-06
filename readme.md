@@ -11,3 +11,11 @@ Data Analytics Tools
 FastApi
 
 ```
+
+
+
+```
+myenv\Scripts\activate
+
+deactivate --- To Deactivate the Enironment 
+```
