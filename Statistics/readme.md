@@ -1,0 +1,14 @@
+| Aspect                   | Online Programming                                                                    | Offline Programming                                                                   |
+|--------------------------|---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| Definition               | Direct programming at robot cell using teach pendant or GUI provided by robot controller. | Creating and testing programs on separate computer system, independent of robot cell.  |
+| Differences              | - Real-time feedback on movements.                                                    | - Reduced downtime as robot remains operational.                                      |
+|                          | - Interactive teaching via teach pendants.                                             | - Virtual simulation for testing without disrupting production.                        |
+|                          | - Direct access to robot.                                                              | - Operators work in controlled environment.                                           |
+|                          | - May disrupt production.                                                              | - Complex setup.                                                                      |
+| Advantages               | - Quick iterations.                                                                    | - Reduced downtime.                                                                   |
+|                          | - Intuitive teaching.                                                                  | - Thorough testing in safe environment.                                              |
+|                          | - Simplified setup.                                                                    | - Concurrent programming.                                                             |
+|                          | - Easy debugging.                                                                      | - Enhanced safety.                                                                    |
+| Disadvantages            | - Disruptions may occur.                                                               | - Setup complexity.                                                                   |
+|                          | - Limited accessibility.                                                               | - Limited real-time feedback.                                                         |
+|                          | - Safety concerns.                                                                     | - Integration challenges.                                                             |
