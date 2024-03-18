@@ -12,6 +12,8 @@ FastApi
 
 ```
 
+![alt text](./assets/ML-DS-cycle-1.png)
+
 
 
 ```
