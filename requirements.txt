@@ -2,3 +2,4 @@ fastapi
 matplotlib
 numpy
 pandas
+scikit-learn
