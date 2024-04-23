@@ -21,3 +21,20 @@ myenv\Scripts\activate
 
 deactivate --- To Deactivate the Enironment 
 ```
+
+![alt text](./assets/data-analyst-1.png)
+
+
+
+
+```
+Things need to complete 
+
+Theory
+Excel
+Python -- pandas, matplotlib, statitics
+Data Analytics and Visualization  -- PowerBI
+Statistical Analytics
+Popular Big Data Analytics
+Machine Learning Algos
+```
