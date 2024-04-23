@@ -27,6 +27,13 @@ deactivate --- To Deactivate the Enironment
 
 
 
+Requirements 
+- Python 3.7 or higher
+- FastAPI
+- Matplotlib
+- Numpy
+- Pandas
+- Scikit-learn
 ```
 Things need to complete 
 
